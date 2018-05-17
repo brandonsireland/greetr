@@ -1,0 +1,10 @@
+.header{
+    margin: 16px auto;
+    text-align: center;
+}
+.section{
+    margin: auto;
+    width:60%;
+    border: 1px solid #eee;
+    padding: 16px;
+}
